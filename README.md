@@ -1,1 +1,1 @@
-Short little project for school. Uses super and subclasses, polymorphism and inheritance.
+A short little project for school. Uses superclasses, subclasses, polymorphism, and inheritance.
